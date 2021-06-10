@@ -12,13 +12,13 @@
 
 #practice for read, readline, readlines
 #
-file_read_obj = open("sandeep2.txt",'r+')
-# # print(file_read_obj.read())
-# for each_line in file_read_obj:
-#     print(each_line)
-#     print("---------------")
-#     print(file_read_obj.readline())
-print(file_read_obj.readlines())
+# file_read_obj = open("sandeep2.txt",'r+')
+# # # print(file_read_obj.read())
+# # for each_line in file_read_obj:
+# #     print(each_line)
+# #     print("---------------")
+# #     print(file_read_obj.readline())
+# print(file_read_obj.readlines())
 
 file_content = '''this is line no1
 this is line no2
