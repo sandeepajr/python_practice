@@ -1,0 +1,2 @@
+myname = "sandeep"
+location = "hyderabad"
